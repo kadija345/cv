@@ -1,0 +1,104 @@
+body{
+    font-family: 'Arial';
+    margin:0;
+}
+a{
+    color: white;
+}
+.secondary-block{
+    color: white;
+    background-color: #0475BA;
+}
+nav{
+    height:70px;
+   
+}
+nav h2{
+    margin:0;
+    float:left;
+    padding:20px 0px 20px 15px;
+}
+nav ul{
+    margin:0;
+    padding: 24px;
+    list-style: none;
+    float: left;
+}
+nav li{
+float: left;
+margin-left: 15px;
+}
+
+img {
+    height: 200px;
+}
+.content{
+    max-width: 800px;
+    margin: 0 auto;
+}
+header{
+  text-align: center;
+  
+}
+header h2{
+    color: (#0475BA);
+    padding: 40px;
+
+}
+header img{
+    width: 150px;
+    border-radius: 75px;
+    box-shadow: 3px 3px 6px red;
+} 
+section{
+    padding: 40px;
+
+}
+#xp ul{
+ list-style: none;
+padding: 0;
+margin: 0;
+
+}
+#xp li{
+    margin-bottom: 10px;
+
+}
+#xp aside {
+    float: right;
+
+
+}
+ #education ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+
+ }
+ #education li{
+     margin-bottom: 10px;
+ }
+ #education aside{
+     float: right;
+ }
+ footer{
+     padding: 40px;
+
+ }
+ footer ul{
+     list-style: none;
+     padding: 0;
+     margin: 0;
+      }
+ footer .links{
+     margin-bottom: 25px;
+     display: inline-block;
+     width: 390px;
+ }
+ footer ul{
+     color: chartreuse;
+ }
+    
+
+
+
